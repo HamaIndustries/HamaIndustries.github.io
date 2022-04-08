@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Garden</title>
+        <meta charset="UTF-8">
+		<style>
+			body {
+				background-color: black;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			canvas {
+				width: 1024;
+				height: 600;
+				margin: auto
+			}
+		</style>
+    </head>
+    <body>
+		<div id="container">
+			<canvas id="canvas">
+		</canvas></div>
+        <script src="lacreatura.js"></script>
+        <script>
+            var engine = new Engine({"args":[],"canvasResizePolicy":2,"executable":"lacreatura","experimentalVK":false,"fileSizes":{"lacreatura.pck":20449744,"lacreatura.wasm":17493574},"focusCanvas":true,"gdnativeLibs":[]});
+            engine.startGame();
+        </script>
+    </body>
+</html>
+
