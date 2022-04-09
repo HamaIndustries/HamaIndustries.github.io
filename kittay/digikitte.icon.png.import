@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/digikitte.icon.png-960ab97e23847b64e26d0d15a74713b8.stex"
+path="res://.import/digikitte.icon.png-81dffa25ce7e20f46bd9ee2bf58c387d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://kittay/digikitte.icon.png"
-dest_files=[ "res://.import/digikitte.icon.png-960ab97e23847b64e26d0d15a74713b8.stex" ]
+source_file="res://bin/kittay/digikitte.icon.png"
+dest_files=[ "res://.import/digikitte.icon.png-81dffa25ce7e20f46bd9ee2bf58c387d.stex" ]
 
 [params]
 
